@@ -36,9 +36,9 @@ VTEX IO · Shopify · Redux · React Query
 
 ## 📊 GitHub Stats  
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=**YOUR_USERNAME**&show_icons=true&theme=radical)  
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Velasco1704&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**YOUR_USERNAME**&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Velasco1704&layout=compact&theme=radical)  
 
 ---
 
@@ -46,7 +46,6 @@ VTEX IO · Shopify · Redux · React Query
 
 📧 **Email:** danilovelga74747@gmail.com  
 💼 [LinkedIn](https://linkedin.com)  
-💻 [Portfolio / Github Pages](https://github.com/**YOUR_USERNAME**)  
 
 ---
 ✨ _Always learning, always building._ ✨
