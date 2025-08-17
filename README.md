@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel Felipe Velasco Vargas  
+# 👋 Hi, I'm Daniel  
 
 ### 🚀 Frontend Developer | VTEX IO & Shopify Specialist  
 
