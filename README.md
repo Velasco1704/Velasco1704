@@ -34,10 +34,6 @@ VTEX IO · Shopify · Redux · React Query
 
 ---
 
-## 📊 GitHub Stats  
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Velasco1704&show_icons=true&theme=radical)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Velasco1704&layout=compact&theme=radical)  
 
 ---
