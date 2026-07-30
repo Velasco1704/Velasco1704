@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel  
 
-### 🚀 Frontend Developer | VTEX IO & Shopify Specialist  
+### 🚀 Software Developer | VTEX IO & Shopify Specialist  
 
 I’m a passionate **Frontend Developer** with experience in **international B2C and B2B projects**, specialized in **VTEX IO and Shopify**.  
 I love building **scalable interfaces**, optimizing **performance**, and delivering solutions that enhance the **user experience**.  
