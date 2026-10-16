@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="Creating exceptional digital experiences with clean code. © Daniel Velasco">
+<title>Creating exceptional digital experiences with clean code. © Daniel Velasco</title>
+<defs>
+<clipPath id="f-clip"><rect x="0.5" y="0.5" width="1199" height="95" rx="20"/></clipPath>
+<pattern id="f-dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity="0.07"/></pattern>
+<linearGradient id="f-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1d242b"/><stop offset="1" stop-color="#182027"/></linearGradient>
+<radialGradient id="f-gA" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#0077c0" stop-opacity="0.22"/><stop offset="1" stop-color="#0077c0" stop-opacity="0"/></radialGradient>
+<radialGradient id="f-gB" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#c7eeff" stop-opacity="0.1"/><stop offset="1" stop-color="#c7eeff" stop-opacity="0"/></radialGradient>
+</defs>
+<style>text{font-family:'Plus Jakarta Sans', 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif}
+.draw{stroke-dasharray:1;stroke-dashoffset:0;animation:draw 2.2s ease-out both,fillin 1s ease-out 1.5s both}
+.rise{animation:rise .9s ease-out both}
+.r1{animation-delay:.25s}.r2{animation-delay:.45s}.r3{animation-delay:.65s}.r4{animation-delay:.85s}
+.drift{animation:drift 14s ease-in-out infinite alternate}
+.drift2{animation:drift 18s ease-in-out infinite alternate-reverse}
+@keyframes draw{from{stroke-dashoffset:1;fill-opacity:0}}
+@keyframes fillin{from{fill-opacity:0}}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}}
+@keyframes drift{from{transform:translate(-36px,10px)}to{transform:translate(28px,-8px)}}
+@media (prefers-reduced-motion:reduce){.draw,.rise,.drift,.drift2{animation:none}}</style>
+<g clip-path="url(#f-clip)">
+<rect width="1200" height="96" fill="url(#f-bg)"/>
+<rect width="1200" height="96" fill="url(#f-dots)"/>
+<ellipse class="drift" cx="936" cy="38.4" rx="360" ry="81.6" fill="url(#f-gA)"/>
+<ellipse class="drift2" cx="1140" cy="91.2" rx="240" ry="57.6" fill="url(#f-gB)"/>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="95" rx="20" fill="none" stroke="#374151" stroke-width="1"/>
+<g transform="translate(40 28) scale(0.23)"><g transform="translate(0 181) scale(0.1 -0.1)"><path class="" pathLength="1" d="M180 920 l0 -750 353 0 c370 0 416 4 541 49 87 30 161 77 239 151 l69 65 -73 177 c-64 157 -89 200 -89 152 0 -32 -65 -140 -113 -189 -102 -101 -185 -125 -434 -125 l-183 0 0 470 0 470 193 0 c169 0 202 -3 257 -21 82 -27 126 -55 184 -120 59 -65 72 -92 176 -349 45 -113 90 -223 99 -245 10 -22 30 -71 46 -110 15 -38 33 -83 41 -100 7 -16 31 -77 54 -135 22 -58 44 -112 49 -120 7 -12 38 -15 181 -15 l173 0 58 150 c33 83 63 159 69 170 5 11 45 112 90 225 44 113 85 214 90 225 5 11 66 164 136 340 70 176 133 335 141 353 l13 32 -162 0 -163 0 -69 -178 c-128 -330 -327 -837 -335 -857 -5 -11 -14 -35 -21 -52 -7 -18 -16 -33 -20 -33 -4 0 -19 33 -35 73 -102 265 -222 563 -251 622 -72 150 -189 271 -329 342 -153 78 -184 82 -607 83 l-368 0 0 -750z" fill="#c7eeff" stroke="#c7eeff" stroke-width="9" stroke-linejoin="round"/></g></g>
+<text x="128" y="54" font-size="17" font-weight="700" fill="#fafafa">Creating exceptional digital experiences with clean code.</text>
+<text x="1160" y="54" font-size="13" font-weight="600" letter-spacing="1" text-anchor="end" fill="#9ca3af">© Daniel Velasco</text>
+</svg>

@@ -1,46 +1,95 @@
-# 👋 Hi, I'm Daniel  
-
-### 🚀 Software Developer | VTEX IO & Shopify Specialist  
-
-I’m a passionate **Frontend Developer** with experience in **international B2C and B2B projects**, specialized in **VTEX IO and Shopify**.  
-I love building **scalable interfaces**, optimizing **performance**, and delivering solutions that enhance the **user experience**.  
-
----
-
-## 🛠️ Tech Stack  
+<a href="https://www.devdanielvelasco.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img alt="Daniel Velasco, Software Developer (Full-Stack). Building high-impact digital experiences in the e-commerce ecosystem." src="assets/header-light.svg" width="100%">
+  </picture>
+</a>
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hydrogen-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
-  <img src="https://img.shields.io/badge/VTEX-ED1C24?style=for-the-badge&logo=vtex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+  <a href="https://www.devdanielvelasco.com"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-0077c0?style=for-the-badge&labelColor=0077c0"></a>
+  <a href="https://www.linkedin.com/in/daniel-velasco-a9818523a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-1d242b?style=for-the-badge&labelColor=1d242b"></a>
+  <a href="https://www.devdanielvelasco.com/daniel-velasco-CV.pdf"><img alt="Download CV" src="https://img.shields.io/badge/CV-1d242b?style=for-the-badge&labelColor=1d242b"></a>
+</p>
 
-  <!-- Backend & DB -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<h3>[ ABOUT ]</h3>
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>  
+I'm a passionate Full-Stack Software Developer specialized in **VTEX IO**, **Shopify** and **Next.js**, with experience in international B2C and B2B e-commerce projects.
 
----
+I enjoy building scalable interfaces, optimizing performance and delivering solutions that improve the user experience. My approach goes beyond writing code: I aim to create captivating, functional and high-performance digital experiences.
 
-## 🌍 Connect with me  
+Bogotá, Colombia &nbsp;·&nbsp; 5+ years writing code
 
-📧 **Email:** danilovelga74747@gmail.com  
-💼 [LinkedIn](https://linkedin.com)  
+<h3>[ EXPERIENCE ]</h3>
 
----  
-✨ _Always learning, always building._ ✨
+**ITGlobers** — Frontend Developer MID  
+<sub>2024 – Present &nbsp;·&nbsp; Bogotá, Colombia · Remote</sub>
+
+I develop and maintain high-impact e-commerce solutions within the VTEX IO ecosystem, working closely with multidisciplinary teams to deliver scalable, performant and visually exceptional shopping experiences for international brands.
+
+- I design and develop custom components for large-scale e-commerce stores using VTEX IO and Shopify, improving the user experience and site performance.
+- I build and optimize early products and proofs of concept, combining interface development with business logic to validate new e-commerce features and flows using VTEX IO and Node.js.
+- I take part in frontend architecture design for B2C and B2B platforms, working with multidisciplinary teams to estimate effort, define technical solutions and ship high-quality features on schedule.
+
+<code>VTEX IO</code> · <code>React</code> · <code>TypeScript</code> · <code>GraphQL</code> · <code>Node.js</code> · <code>Shopify</code>
+
+<h3>[ STACK ]</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Technology stack. Core: VTEX IO, Shopify, Next.js. Frontend: React, TypeScript, Redux, React Query, Tailwind, Sass. Backend and data: Node.js, Express, GraphQL, REST, PostgreSQL, Prisma, Python. DevOps and quality: Docker, AWS, Git, Jest, CI/CD, Core Web Vitals." src="assets/stack-light.svg" width="100%">
+</picture>
+
+<h3>[ SELECTED WORK ]</h3>
+
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <a href="https://www.mattelsa.net/"><img alt="Mattelsa e-commerce home page" src="assets/projects/mattelsa.webp" width="100%"></a>
+    </td>
+    <td valign="top">
+      <b>Mattelsa</b><br>
+      <sub>E-COMMERCE · B2C</sub><br><br>
+      Colombian fashion brand with a strong identity. A B2C store on VTEX with heavy storefront customization and custom components in React and TypeScript.<br><br>
+      <code>VTEX IO</code> <code>React</code> <code>TypeScript</code> <code>GraphQL</code> <code>Jest</code><br><br>
+      <a href="https://www.mattelsa.net/">View live site ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" valign="top">
+      <a href="https://www.sinsa.com.ni/"><img alt="Sinsa e-commerce home page" src="assets/projects/sinsa.webp" width="100%"></a>
+    </td>
+    <td valign="top">
+      <b>Sinsa</b><br>
+      <sub>E-COMMERCE · B2C</sub><br><br>
+      Home improvement leader in Nicaragua. An e-commerce built from scratch on VTEX best practices with strategic storefront customizations.<br><br>
+      <code>VTEX IO</code> <code>React</code> <code>TypeScript</code> <code>GraphQL</code> <code>Node.js</code><br><br>
+      <a href="https://www.sinsa.com.ni/">View live site ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" valign="top">
+      <a href="https://gt3-touring-showcase.netlify.app"><img alt="911 GT3 Touring interactive 3D showcase" src="assets/projects/gt3.webp" width="100%"></a>
+    </td>
+    <td valign="top">
+      <b>911 GT3 Touring</b><br>
+      <sub>WEB 3D · PERSONAL</sub><br><br>
+      Interactive 3D showcase: a cinematic 10-camera tour and an automotive photo studio in WebGL. Model compressed from 17 MB to 1.7 MB.<br><br>
+      <code>Three.js</code> <code>TypeScript</code> <code>GSAP</code> <code>WebGL</code><br><br>
+      <a href="https://gt3-touring-showcase.netlify.app">View live site ↗</a>
+    </td>
+  </tr>
+</table>
+
+<h3>[ LET'S TALK ]</h3>
+
+Have a project in mind or just want to say hi? I'd love to hear from you.
+
+- Portfolio: [devdanielvelasco.com](https://www.devdanielvelasco.com)
+- LinkedIn: [Daniel Velasco](https://www.linkedin.com/in/daniel-velasco-a9818523a/)
+- CV: [Download PDF](https://www.devdanielvelasco.com/daniel-velasco-CV.pdf)
+- GitHub: [@Velasco1704](https://github.com/Velasco1704)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <img alt="Creating exceptional digital experiences with clean code. © Daniel Velasco" src="assets/footer-light.svg" width="100%">
+</picture>
