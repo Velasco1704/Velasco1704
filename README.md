@@ -9,6 +9,7 @@
   <a href="https://www.devdanielvelasco.com"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-0077c0?style=for-the-badge&labelColor=0077c0"></a>
   <a href="https://www.linkedin.com/in/daniel-velasco-a9818523a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-1d242b?style=for-the-badge&labelColor=1d242b"></a>
   <a href="https://www.devdanielvelasco.com/daniel-velasco-CV.pdf"><img alt="Download CV" src="https://img.shields.io/badge/CV-1d242b?style=for-the-badge&labelColor=1d242b"></a>
+  <a href="mailto:danilovelga4747@gmail.com"><img alt="Email danilovelga4747@gmail.com" src="https://img.shields.io/badge/GMAIL-1d242b?style=for-the-badge&labelColor=1d242b"></a>
 </p>
 
 <h3>[ ABOUT ]</h3>
@@ -84,6 +85,7 @@ I develop and maintain high-impact e-commerce solutions within the VTEX IO ecosy
 
 Have a project in mind or just want to say hi? I'd love to hear from you.
 
+- Email: [danilovelga4747@gmail.com](mailto:danilovelga4747@gmail.com)
 - Portfolio: [devdanielvelasco.com](https://www.devdanielvelasco.com)
 - LinkedIn: [Daniel Velasco](https://www.linkedin.com/in/daniel-velasco-a9818523a/)
 - CV: [Download PDF](https://www.devdanielvelasco.com/daniel-velasco-CV.pdf)
